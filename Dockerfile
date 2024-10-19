@@ -1,4 +1,4 @@
-from ubuntu:14.04
+from ubuntu:trusty-20190515
 
 run apt-get update -y
 run apt-get install -y mercurial
