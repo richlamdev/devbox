@@ -1,4 +1,4 @@
-from ubuntu:trusty-20190515
+from ubuntu:20.04
 
 run apt-get update -y
 run apt-get install -y mercurial
